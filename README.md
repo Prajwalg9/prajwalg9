@@ -22,4 +22,4 @@ I am a Full Stack Software Engineer focused on building scalable web application
 
 **Backend:** Python + DSA | Django | RESTful APIs | MySQL
 
-**DevOps:** Git | GitHub | Postman | Docker
+**DevOps:** Git | GitHub | Postman | Docker | AWS
