@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Prajwal 👋
 
-<!--
-**Prajwalg9/prajwalg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Software Engineer focused on building scalable web applications, robust APIs, and integrating modern AI workflows. 
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Architecting decoupled enterprise applications using React.js and the Django REST Framework.
+- 🌱 **I’m currently learning:** Containerization with Docker and automated cloud deployment pipelines on AWS.
+- 👯 **I’m looking to collaborate on:** Open-source Python backend architectures and AI-integrated SaaS products.
+- 🤔 **I’m looking for help with:** Optimizing CI/CD workflows and scaling relational databases (MySQL/PostgreSQL).
+- 💬 **Ask me about:** Python, API design, decoupled architecture, and React state management.
+- 📫 **How to reach me:** [Insert LinkedIn URL] | [Insert Email] | [My PORTFOLIO]
+- ⚡ **Fun fact:** I believe the most important programming language is a perfectly optimized database schema.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Featured Engineering Projects
+
+* 🛒 **[ShoppyGlobe E-Commerce](link-to-repo)** - Full-stack B2C application demonstrating complex state management and relational database joins.
+* 📄 **[AI ATS Resume Screener](link-to-repo)** - Enterprise-grade SaaS tool featuring file parsing and LLM API integration.
+* 📋 **[Agile Dev Board](link-to-repo)** - Real-time Kanban board proving mastery over decoupled API-to-client communication.
+
+### 🛠️ Core Tech Stack
+**Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS
+**Backend:** Python + DSA | Django | RESTful APIs | MySQL
+**DevOps:** Git | GitHub | Postman | Docker
