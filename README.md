@@ -17,6 +17,9 @@ I am a Full Stack Software Engineer focused on building scalable web application
 * 📋 **[Agile Dev Board](https://github.com/Prajwalg9/Agile-Dev-Board)** - Real-time Kanban board proving mastery over decoupled API-to-client communication.
 
 ### 🛠️ Core Tech Stack
+
 **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS
+
 **Backend:** Python + DSA | Django | RESTful APIs | MySQL
+
 **DevOps:** Git | GitHub | Postman | Docker
