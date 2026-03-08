@@ -12,9 +12,9 @@ I am a Full Stack Software Engineer focused on building scalable web application
 
 ### 🏆 Featured Engineering Projects
 
-* 🛒 **[ShoppyGlobe E-Commerce]([link-to-repo](https://github.com/Prajwalg9/Shoppyglobe-Ecommerce))** - Full-stack B2C application demonstrating complex state management and relational database joins.
-* 📄 **[AI ATS Resume Screener]([link-to-repo](https://github.com/Prajwalg9/AI-resume-screener))** - Enterprise-grade SaaS tool featuring file parsing and LLM API integration.
-* 📋 **[Agile Dev Board]([link-to-repo](https://github.com/Prajwalg9/Agile-Dev-Board))** - Real-time Kanban board proving mastery over decoupled API-to-client communication.
+* 🛒 **[ShoppyGlobe E-Commerce](https://github.com/Prajwalg9/Shoppyglobe-Ecommerce)** - Full-stack B2C application demonstrating complex state management and relational database joins.
+* 📄 **[AI ATS Resume Screener](https://github.com/Prajwalg9/AI-resume-screener)** - Enterprise-grade SaaS tool featuring file parsing and LLM API integration.
+* 📋 **[Agile Dev Board](https://github.com/Prajwalg9/Agile-Dev-Board)** - Real-time Kanban board proving mastery over decoupled API-to-client communication.
 
 ### 🛠️ Core Tech Stack
 **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS
