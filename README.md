@@ -7,14 +7,14 @@ I am a Full Stack Software Engineer focused on building scalable web application
 - 👯 **I’m looking to collaborate on:** Open-source Python backend architectures and AI-integrated SaaS products.
 - 🤔 **I’m looking for help with:** Optimizing CI/CD workflows and scaling relational databases (MySQL/PostgreSQL).
 - 💬 **Ask me about:** Python, API design, decoupled architecture, and React state management.
-- 📫 **How to reach me:** [Insert LinkedIn URL] | [Insert Email] | [My PORTFOLIO]
+- 📫 **How to reach me:** www.linkedin.com/in/prajwalgg99 | prajwalgg99@gmail.com | [My PORTFOLIO]
 - ⚡ **Fun fact:** I believe the most important programming language is a perfectly optimized database schema.
 
 ### 🏆 Featured Engineering Projects
 
-* 🛒 **[ShoppyGlobe E-Commerce](link-to-repo)** - Full-stack B2C application demonstrating complex state management and relational database joins.
-* 📄 **[AI ATS Resume Screener](link-to-repo)** - Enterprise-grade SaaS tool featuring file parsing and LLM API integration.
-* 📋 **[Agile Dev Board](link-to-repo)** - Real-time Kanban board proving mastery over decoupled API-to-client communication.
+* 🛒 **[ShoppyGlobe E-Commerce]([link-to-repo](https://github.com/Prajwalg9/Shoppyglobe-Ecommerce))** - Full-stack B2C application demonstrating complex state management and relational database joins.
+* 📄 **[AI ATS Resume Screener]([link-to-repo](https://github.com/Prajwalg9/AI-resume-screener))** - Enterprise-grade SaaS tool featuring file parsing and LLM API integration.
+* 📋 **[Agile Dev Board]([link-to-repo](https://github.com/Prajwalg9/Agile-Dev-Board))** - Real-time Kanban board proving mastery over decoupled API-to-client communication.
 
 ### 🛠️ Core Tech Stack
 **Frontend:** HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS
