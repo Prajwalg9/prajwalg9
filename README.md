@@ -5,7 +5,6 @@ I am a Full Stack Software Engineer focused on building scalable web application
 - 🔭 **I’m currently working on:** Architecting decoupled enterprise applications using React.js and the Django REST Framework.
 - 🌱 **I’m currently learning:** Containerization with Docker and automated cloud deployment pipelines on AWS.
 - 👯 **I’m looking to collaborate on:** Open-source Python backend architectures and AI-integrated SaaS products.
-- 🤔 **I’m looking for help with:** Optimizing CI/CD workflows and scaling relational databases (MySQL/PostgreSQL).
 - 💬 **Ask me about:** Python, API design, decoupled architecture, and React state management.
 - 📫 **How to reach me:** www.linkedin.com/in/prajwalgg99 | prajwalgg99@gmail.com | [My PORTFOLIO]
 - ⚡ **Fun fact:** I believe the most important programming language is a perfectly optimized database schema.
