@@ -2,7 +2,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgg99) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwalgg99@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prajwalgg99@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.COM)
 
 
@@ -59,7 +59,7 @@ When I am not analyzing datasets, I am actively adapting new AI technologies and
 I am always open to collaborating on data-driven projects, AI integrations, or discussing the latest in tech! 🤝 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgg99) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajwalgg99@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prajwalgg99@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.COM)
 
 ---
