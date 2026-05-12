@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgg99) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prajwalgg99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.COM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=googlechrome&logoColor=white)](https://prajwalg.vercel.app)
 
 
 **Data Analyst | AI Engineer | Computer Science Student** 🎓
@@ -60,7 +60,7 @@ I am always open to collaborating on data-driven projects, AI integrations, or d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgg99) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=prajwalgg99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL.COM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=googlechrome&logoColor=white)](https://prajwalg.vercel.app)
 
 ---
 ⭐️ *From [prajwalg9](https://github.com/prajwalg9)*
